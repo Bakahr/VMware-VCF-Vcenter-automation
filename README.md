@@ -1,6 +1,7 @@
 # VMware-VCF-Vcenter-automation
 
 This repository serves as a **Toolkit** for automating the lifecycle, health, and configuration of VMware Cloud Foundation (VCF) and vSphere environments. 
+Reduces VCF deployment risk by automating the pre-flight checks that most commonly cause bring-up failures.
 
 In modern SDDC (Software-Defined Data Center) environments, manual configuration is a risk. This project focuses on **Infrastructure as Code (IaC)** and **API-driven validation** to ensure "Cloud-Ready" deployments.
 
